@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-09-21T16:27:25.9469731Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-09-21T16:27:30.3704066Z"
+    },
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2021-09-21T16:26:21.3474009Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Curso"
+    },
+    "secrets1.resourceGroupName": {
+      "Name": "secrets1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Curso"
+    },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6a24d1dd-9947-4a4c-925f-511e7d607a1d"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6a24d1dd-9947-4a4c-925f-511e7d607a1d"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Curso"
+    },
+    "secrets1.subscriptionId": {
+      "Name": "secrets1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6a24d1dd-9947-4a4c-925f-511e7d607a1d"
+    }
+  }
+}

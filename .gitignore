@@ -1,0 +1,8 @@
+.vscode
+.vs
+/CursoAPI/bin
+/CursoAPI/obj
+/CursoMVC/bin
+/CursoMVC/obj
+/CursoTest/bin
+/CursoTest/obj
